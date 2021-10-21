@@ -9,3 +9,4 @@
 # Awards and Certificates
 # [Awarded the Centre for Environmental Science prize for best Individual Project](https://github.com/702BH/Portfolio_test/blob/main/Awards%20and%20Certificates/CENTRE%20FOR%20ES%20PRIZE%20HOUSEMAN%20B.pdf)
 # [Completed the Data Analyst with R carear track on DataCamp](https://github.com/702BH/Portfolio_test/blob/main/Awards%20and%20Certificates/data%20camp%20cert.pdf)
+# Although I have not graduated from my Masters degree yet as I am completing it part-time whilst I work, I have included a copy of my currently [obtained marks](https://github.com/702BH/Portfolio_test/blob/main/Awards%20and%20Certificates/Gmail-Your-Module-Results.pdf), which I hope demonstrates my high level of interest and capability.
