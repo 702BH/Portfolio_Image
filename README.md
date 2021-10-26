@@ -4,7 +4,7 @@
 
 # [Project 2: University Project: Data Visualisations](https://github.com/702BH/University-Project-Visualisations/blob/master/visulisations.md)
 
-# [Project 3: University Project: Using Rshint](https://a-28577868.shinyapps.io/mario_app/?_ga=2.166387068.379988980.1635258928-224771637.1635258928)
+# [Project 3: University Project: Using Rshiny](https://a-28577868.shinyapps.io/mario_app/?_ga=2.166387068.379988980.1635258928-224771637.1635258928)
 
 
 
